@@ -24,6 +24,7 @@
     </c:forEach>
 </ul>
 
+
 <h3>Update Status: ${status}</h3>
 
 </body>
